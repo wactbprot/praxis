@@ -5,13 +5,13 @@ layout: contact
 ---
 
 
-| Wochentag  | Vormitag            | Nachmittag          |
-| ---------  | ------------------- |-------------------- |
-| Montag     | 7:00 bis 12:00Uhr   |                     |
-| Dienstag   |                     | 13:00 bis 20:00Uhr  |
-| Mittwoch   | 10:00 bis 12:00Uhr✧ | 12:00 bis 17:00Uhr✧ |
-| Donnerstag |  7:00 bis 12:00Uhr  | 12:00 bis 14:00Uhr  |
-| Freitag    |  7:00 bis 11:00Uhr  |                     |
+|                | Vormitag            | Nachmittag          |
+| ---------------| ------------------- |-------------------- |
+| **Montag**     | 07:00 bis 12:00Uhr  |                     |
+| **Dienstag**   |                     | 13:00 bis 20:00Uhr  |
+| **Mittwoch**   | 10:00 bis 12:00Uhr✧ | 12:00 bis 17:00Uhr✧ |
+| **Donnerstag** | 07:00 bis 12:00Uhr  | 12:00 bis 14:00Uhr  |
+| **Freitag**    | 07:00 bis 11:00Uhr  |                     |
 
 ✧ **nach Vereinbarung**
 
@@ -20,3 +20,12 @@ layout: contact
 * Für längerfristige Anliegen oder im Falle einer telefonischen Nichterreichbarkeit schreiben Sie mir bitte eine E-Mail an dr.cornelia.bock@mail.de.
 * In dringenden Notfällen wenden Sie sich bitte an den Notdienst oder die Rettungsstellen der ortsnahen Kliniken.
 
+# Akutsprechstunde
+
+| Wochentag  | Zeit                |
+|------------|---------------------|
+| Montag	 | 09:00 bis 10:00 Uhr |
+| Dienstag	 | 13:00 bis 14:00 Uhr |
+| Mittwoch	 | 13:00 bis 14:00 Uhr |
+| Donnerstag | 13:00 bis 14:00 Uhr |
+| Freitag	 | 09:00 bis 10:00 Uhr |

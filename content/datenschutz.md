@@ -13,15 +13,7 @@ Datenschutz haben.
 
 ## Verantwortlichkeit für die Datenverarbeitung
 
-
-<pre>
- Dr. med. Cornelia Bock
- Bölsche Str. 108
- 12587 Berlin
- Telefon: 030/6451763
- Email: dr.cornelia.bock@mail.de
-</pre>
-
+{{< address >}}
 
 ## Zweck der Datenverarbeitung
 

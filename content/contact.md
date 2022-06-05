@@ -9,7 +9,7 @@ date: 2022-05-22
 {{< links >}}
 
 
-| Vertkehrsmittel     | Station                                       | Linie    | Fußweg|
+|                     | Station                                       | Linie    | Fußweg|
 |---------------------|-----------------------------------------------|----------|-------|
 | **S-Bahn**          | S-Bahnhof Friedrichshagen                     | S3       |  600m |
 | **Bus**             | Marktplatz Friedrichshagen                    | 61, N67  |  100m |

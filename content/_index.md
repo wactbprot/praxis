@@ -3,16 +3,19 @@ title: "Dr. med. Cornelia Bock"
 meta_title: "Frauenarztpraxis in Berlin-Friedrichshagen"
 
 description: "Frauenarztpraxis in Berlin-Friedrichshagen."
-intro_image: "images/sprechzimmer.jpg"
-intro_image_absolute: true
+intro_image: "images/dr_cornelia_bock.jpg"
+intro_image_absolute: false
 intro_image_hide_on_mobile: false
 ---
 
-# Liebe Patientinnen
+# Liebe Patientinnen,
 
-Die Sprechzeit am 19. Mai 2022 ist verkürzt und endet um
-11:00Uhr. Am 20. Mai 2022 ist unsere Praxis wegen Urlaub
-geschlossen. Die Vertretung übernimmt Dr. Hoffmann.
+unser **Sommerurlaub** findet in diesem Jahr vom **11. Juli** bis **22. Juli**
+statt. In der ersten Urlaubswoche werden wir von [Frau Dr. Benecke](https://www.frauenaerzte-im-netz.de/aerzte/berlin/benecke/startseite.html)  und in der
+darauffolgenden Woche von [Frau Dr. Jende-Roil](https://wendenschlosspraxis.berlin/praxis.html) vertreten. 
+
+
+Lesen Sie auf dieser Webseite mehr über unsere vielfältigen Leistungsangebote.
 
 Herzlichst Ihre
 

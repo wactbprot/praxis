@@ -1,6 +1,6 @@
 ---
-title: "RKI empfohlene Impfungen, Reiseimpfungen"
-date: 2022-05-22
+title: "RKI empfohlene Impfungen"
+date: 2022-05-29
 draft: false
 featured: true
 weight: 1
@@ -38,17 +38,7 @@ Pneumokokkenimpfung (Schutz vor bestimmten Form der Lungenentzündung)
 
 Herpes zoster-Impfung, Wirkdauer 6 Jahre
 
-### Reiseimpfungen 
 
-individuell abhängig von der Art der Reise und Reiseland Bsp. für
-zusätzliche Impfungen, ggf. nötige Auffrischung von Tetanus,
-Diphterie, Pertussis, Poliomyelitis wird hier vorausgesetzt
+## Coronavirus und Reiseimpfungen
 
-* FSME
-* Hepatitis
-* Japanenzephalitis
-* Tollwut
-* Thyphus
-* Cholera
-* Meningokokken
-* Gelbfieber  (Impfung nicht in der Praxis, sondern z.B. im Institut für Tropenmedizin- dort auch nach ggf. Malariaprophylaxe fragen!)
+__Für die Impfung gegen die Coronaviren und Reiseimpfungen wenden Sie sich bitte an Ihren Hausarzt.__

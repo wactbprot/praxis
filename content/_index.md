@@ -10,11 +10,11 @@ intro_image_hide_on_mobile: true
 
 # Liebe Patientinnen,
 
-unser **Sommerurlaub** findet in diesem Jahr vom **11. Juli** bis
-**22. Juli** statt. In den beiden Urlaubswochen werden wir von 
-[**Frau Dr. Jende-Roil**](https://wendenschlosspraxis.berlin/praxis.html)
-vertreten.
+aufgrund der aktuell deutlichen Zunahme an Akutpatientinnen
+(Vertretungs- und saisonalbedingt) bitten wir um Verständnis für
+eventuell entstehende Wartezeiten.
 
+Am **26. 8. 22** und **29. 8. 22** bleibt die Praxis geschlossen.
 
 Lesen Sie auf dieser Webseite mehr über unsere vielfältigen Leistungsangebote.
 
@@ -22,3 +22,8 @@ Herzlichst Ihre
 
 Dr. med. Cornelia Bock
  
+<!--
+[**Frau Dr. Jende-Roil**](https://wendenschlosspraxis.berlin/praxis.html)
+
+am **30. Juni** bleibt die Praxis wegen unserer _Quartalsabrechnung_ geschlossen.
+-->

@@ -11,11 +11,8 @@ intro_image_hide_on_mobile: true
 # Liebe Patientinnen,
 
 
-am **26. 8. 22** und **29. 8. 22** bleibt die Praxis geschlossen.
-Bitte beachten Sie auch die verkürzte Sprechzeit am **25. 8. 22** (bis
-11:00Uhr). Die Vertretung wird an diesen Tagen von [**Dr. med. Swetlana
-Hoffmann**](https://www.praxisklinik-dres-hoffmann.de/) übernommen.
-
+vom **27. 10. 22** bis  **31. 10. 22** bleibt unsere Praxis
+geschlossen. [**Dr. med. Swetlana Hoffmann**](https://www.praxisklinik-dres-hoffmann.de/) übernimmt an diesen Tagen die Vertretung.
 
 Lesen Sie auf dieser Webseite mehr über unsere vielfältigen
 Leistungsangebote.

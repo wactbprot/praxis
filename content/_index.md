@@ -11,9 +11,11 @@ intro_image_hide_on_mobile: true
 # Liebe Patientinnen,
 
 
-am **9. Dezember** ist unsere Praxis
-geschlossen. [**Dr. med. Claudia Benecke**](https://www.frauenaerzte-im-netz.de/aerzte/berlin/benecke/startseite.html)
-übernimmt an diesem Tag die Vertretung.
+unsere Praxis ist vom **22.** bis **30. Dezember** geschlossen. Am
+**29. Dezember** findet die vereinbarte **Schwangerenbetreung** statt.
+
+Wir wünschen unseren Patientinnen frohe Feiertage und ein gesundes
+neues Jahr.
 
 Lesen Sie auf dieser Webseite mehr über unsere vielfältigen
 Leistungsangebote.

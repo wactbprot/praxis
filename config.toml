@@ -1,0 +1,90 @@
+baseURL = "https://xn--frauenrztin-kpenick-lwb99a.de"
+languageCode = "de-de"
+title = "Dr. med. Cornelia Bock"
+themesDir = "themes"
+theme = "hugo-serif-theme"
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.55.0"
+    
+[params]
+  [params.homepage]
+    show_contact_box = true # show / hide the contaxt box on the homepage
+    show_services_button = true  # show / hide the "view all services" button
+
+
+  [params.logo]
+    mobile = "images/Logo_rect.png"
+    mobile_height = "55px"
+    desktop = "images/Logo_rect.png"
+    desktop_height = "75px"
+    alt = "Frauenärztin Dr. med. Cornelia Bock"
+
+  [params.fonts]
+    # sets the google font link in layouts/partials/google-fonts.html
+    # google_fonts = 'https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Source+Sans+Pro:wght@400;700&display=swap'
+     heading = "Playfair Display"
+     base = "Source Sans Pro"
+
+  [params.colors]
+    primary = "#8c2f53"
+    black = "#2f2f41"
+    white = "#ffffff"
+    white_offset = "#f6f7ff"
+    grey = "#5C5A5A"
+
+  #[params.seo]
+  #  meta_twitter_site = "@zerostaticio"
+  #  meta_twitter_creator = "@zerostaticio"
+  #  meta_og_image = "https://www.zerostatic.io/theme/hugo-serif/hugo-serif-screenshot.png"
+
+  [params.team]
+    summary_large_truncate = 120  # How many characters to include in the summary of the team bios (large layout) before truncating
+
+  [params.footer]
+    copyright_text = '© 2022 Dr. med. Cornelia Bock'
+
+[menu]
+  # Main Menu
+  [[menu.main]]
+    name = "Startseite"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Sprechzeiten"
+    url = "/sprechzeiten/"
+    weight = 2
+
+  [[menu.main]]
+      name = "Online Termine"
+      url = "https://termine.xn--frauenrztin-kpenick-lwb99a.de/"
+      weight = 5
+
+  [[menu.main]]
+      name = "Kontakt"
+      url = "/contact/"
+      weight = 6
+
+  # Footer Menu
+  [[menu.footer]]
+    name = "Startseite"
+    url = "/"
+      weight = 1
+
+  [[menu.footer]]
+    name = "Kontakt"
+    url = "/contact/"
+      weight = 2
+
+  [[menu.footer]]
+      name = "Impressum"
+      url = "/impressum/"
+      weight = 4
+
+  [[menu.footer]]
+    name = "Datenschutz"
+    url = "/datenschutz/"
+      weight = 3

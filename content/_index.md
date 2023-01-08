@@ -11,11 +11,12 @@ intro_image_hide_on_mobile: true
 # Liebe Patientinnen,
 
 
-unsere Praxis ist vom **22.** bis **30. Dezember** geschlossen. Am
-**29. Dezember** findet die vereinbarte **Schwangerenbetreung** statt.
+wir wünschen Ihnen ein gesundes neues Jahr!  Leider können wir wegen
+einer Erkrankung in der **Woche vom 09.01. bis 13.01.2023** nur mit einer
+Sprechstundenhilfe arbeiten. Wir Bitten um Verständnis.
 
-Wir wünschen unseren Patientinnen frohe Feiertage und ein gesundes
-neues Jahr.
+Vom **02.02.** bis **03.02.2023** bleibt die Praxis geschlossen. Die Vertretung wird von 
+[**Frau Dr. Jende-Roil**](https://wendenschlosspraxis.berlin/praxis.html) übernummen.
 
 Lesen Sie auf dieser Webseite mehr über unsere vielfältigen
 Leistungsangebote.
@@ -32,4 +33,7 @@ Dr. med. Cornelia Bock
 [**Dr. med. Claudia Benecke**](https://www.frauenaerzte-im-netz.de/aerzte/berlin/benecke/startseite.html)
 
 am **30. Juni** bleibt die Praxis wegen unserer _Quartalsabrechnung_ geschlossen.
+
+
+scp -r public/* 37.120.170.202:/var/www/html/
 -->
